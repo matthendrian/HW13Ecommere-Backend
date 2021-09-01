@@ -4,6 +4,7 @@
 
   ## HW 13: Ecommerce Backend 
 
+VIDEO LINK: https://youtu.be/tYyqDBf5Fts 
 
 ### Licensing
   This project is licensed under MIT, https://opensource.org/licenses/MIT
